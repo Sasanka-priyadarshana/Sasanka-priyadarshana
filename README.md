@@ -3,7 +3,9 @@
 
 <p align="left"> <a href="https://twitter.com/sasanka" target="blank"><img src="https://img.shields.io/twitter/follow/sasanka?logo=twitter&style=for-the-badge" alt="sasanka" /></a> </p>
 
-- 🌱 I’m currently learning **IJSE / E soft**
+- 🌱 I’m currently learning **Institute of Java Software Engineering / ESOFT Metro Campus**
+
+- ⌚ I’m currently learning ****Software Engineering****
 
 - 📫 How to reach me **sasankapriyadarshana71@gmail.com**
 
